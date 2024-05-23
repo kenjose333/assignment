@@ -1,0 +1,3 @@
+*.env
+my_env\
+_ _pycache_ _\
